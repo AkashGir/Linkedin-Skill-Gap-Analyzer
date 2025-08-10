@@ -3,10 +3,8 @@ This project analyzes real LinkedIn job postings (2023–2024) and compares them
 
 ## 🚀 Features
 - **Skill Extraction** from LinkedIn job postings using NLP (**spaCy + custom skill dictionary**)
-- **Semantic Skill Matching** with **Sentence-BERT**
 - **Demand Ranking** for missing skills
-- **Interactive Dashboard** via **Streamlit**
-- Pre-trained **BERT models** for high-accuracy matching
+- **Interactive Dashboard** via **Streamlit** (Under Development)
 - Visual insights with **Matplotlib / Seaborn**
 
 ---
@@ -15,8 +13,7 @@ This project analyzes real LinkedIn job postings (2023–2024) and compares them
 - **Python**
 - **Pandas / NumPy** → Data processing
 - **spaCy** → Named Entity Recognition
-- **HuggingFace Transformers** → Sentence-BERT embeddings
-- **Streamlit** → Interactive UI
+- **Streamlit** → Interactive UI (Under Development)
 - **Matplotlib / Seaborn** → Visualizations
 
 ---
